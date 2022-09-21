@@ -1,0 +1,11 @@
+env/
+input/9b0040bc.json
+output/9b0040bc_cover.pdf
+output/9b0040bc_packet.pdf
+ma-instructions.py
+patient-letter.py
+patient-toc.py
+resident-worksheet.py
+scratch.py
+toolsapp.code-workspace
+
